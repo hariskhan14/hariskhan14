@@ -1,9 +1,8 @@
 Hi there 👋, my name is Haris
 
 
-📫 You can reach me at: mohd_hariskhan14@hotmail.com 
-
-👤 My LinkedIn profile: [Haris Khan](https://www.linkedin.com/in/hariskhan14/)
+- 📫 You can reach me at: mohd_hariskhan14@hotmail.com 
+- 👤 My LinkedIn profile: [Haris Khan](https://www.linkedin.com/in/hariskhan14/)
 
 <!---
 - 👋 Hi, I’m @hariskhan14
